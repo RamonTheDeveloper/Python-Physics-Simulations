@@ -43,7 +43,3 @@ Um simulador de pouso de foguete estilo SpaceX com física realista e inspirado 
 ---
 Desenvolvido por **Gabriel Ramon**.
 Bacharelando em Física pela UFAM - Universidade Federal do Amazonas
-
-Vídeo do lançamento deste projeto:
-https://github.com/user-attachments/assets/9211da31-a07d-4409-8143-eea63180b6f9
-
